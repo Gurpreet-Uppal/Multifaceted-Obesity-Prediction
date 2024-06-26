@@ -1,0 +1,2 @@
+Multifaceted Obesity Prediction is a project made to analyze how different factors such as body weight, height, calories intake tells us the level of obesity the patient is suffereing from.
+After the analysis, the level of obesity is predicted for unseen patients using various machine learning models. Through different modelling methods, we succesfully able to predict the obesity level with an accuracy of 89%.
